@@ -60,6 +60,6 @@ public class TitleMenu extends Menu {
 			Font.draw(msg, screen, (screen.w - msg.length() * 8) / 2, (8 + i) * 8, col); // Draw the current option to the screen
 		}
 
-		Font.draw("(Arrow keys,X and C)", screen, 0, screen.h - 8, Color.get(0, 111, 111, 111)); // Draw text at the bottom
+		font.("©Megabyte Computers 2017."), screen, 0, screen.h - 8, Color.get(0, 111, 111, 111)); // Draw text at the bottom
 	}
 }

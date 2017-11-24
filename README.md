@@ -17,6 +17,11 @@ Update 2 (Sprite Rendering)
 
 Update 3 (Unknown)
 
-Quick Notes
-------------------
-There is a funny note that is incorrect and will stay in the game for now. :)
+Releases and Updates including Notes
+-------------------------------------
+Version 0.1:
+Creating the main things and a texture thats perfect.
+Version 0.1.1:
+-About Section has been modified including the Title Screen.
+Version 0.1.2:
+COMING SOON!
